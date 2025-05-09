@@ -20,6 +20,10 @@ Here are some ideas to get you started:
   - Cloud-Based Algorithmic Trading Strategies for Individual Investors [NDA]
     - Technologies: Python, React, Node.js, SQL, AWS
     - Purpose: Stock trading algorithm creation and optimization
+- <b>API Interaction</b>
+  - MTG Terminal Tool
+    - Technologies: Python
+    - Purpose: The primary purpose of this project is to allow users to interact with Scryfall.com through its API using the command line/terminal to search for and view the properties of Magic: The Gathering cards.
 
 <!--
   TEMPLATE
