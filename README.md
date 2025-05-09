@@ -21,7 +21,7 @@ Here are some ideas to get you started:
     - Technologies: Python, React, Node.js, SQL, AWS
     - Purpose: Stock trading algorithm creation and optimization
 - <b>API Interaction</b>
-  - MTG Terminal Tool
+  - <a href="https://github.com/gdmedc/CMD-MTG-Project">MTG Terminal Tool</a>
     - Technologies: Python
     - Purpose: The primary purpose of this project is to allow users to interact with Scryfall.com through its API using the command line/terminal to search for and view the properties of Magic: The Gathering cards.
 
